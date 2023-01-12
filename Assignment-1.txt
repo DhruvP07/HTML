@@ -1,0 +1,27 @@
+Website: A website is a collection of multiple relevant webpages registered under a domain name. It could also be a single webpage. 
+
+Domain:Domain is the name by which a website is registered. it must be unique for each and every website. it is a way to find a website. it is usually what appears after 'WWW.' when you search.
+
+WWW:World wide web, also known as web is a collection of multiple websites stored in a web server and these websites are made available to a user computer when it is connected to internet. 
+
+HTTP/HTTPS: It stands for hypertext transfer protocol. It enables communication between various communicating devices. If a user makes an HTTP request, the server sends the requested data in the form of websites or webpages. Hence, it is used for transer of data. HTTPS stands for hypertext transfer protocol secure. it send the data in encrypted form. hence, a safer version of HTTP. mostly used when dealing with passwords.
+
+URI/URL/URN: URI stands for universal resource identifier. It is a string used to find name and location of a resource. It identifies a resource without getting its address. URL stands for universal resource locator and is a string used to find resource location. It is what we understand as address. URN stands for Universal resource name and is strinctly used to identify the resource.
+
+client/ server: Client is the user who uses services made available by the server. A Server is a physical computer that runs various services.
+
+Host: A host a computer in the network of computers that provides data to other computers. Eg: if a download a video from my friend's computer, then his computer works as host and if he/she downloads an image from my computer, my computer works as a host.
+
+Hosting: hosting means storing and maintaining multiple websites and making them available to the user when requested.
+
+FTP: It is protocol from TCP/IP that is used to transfer files from one host to another. it is mainly used to transfer webpages from the developer to the server.
+
+Extention: It distinguises different types of files. It tells your computer which application is needed to open that particular file.
+
+Path: A path is a strict used to uniquly identify location of a resource.
+
+Editor/VS code: It is an environment where we can run code written using various programming languages.
+
+Address bar displays name or address of the current website.
+
+Titlr bar: a horizontal bar loczted on the top of the window that displays the title of the page or document.
