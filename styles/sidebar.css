@@ -1,0 +1,44 @@
+.sidebar{
+    background-color: white;
+    position:fixed;
+    left: 0;
+    bottom:0;
+    top:55px;
+    width: 80px;
+    border-right-color: rgb(246, 246, 246);
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+.sidebar-link{
+    height: 76px;
+    margin-bottom: 1px;
+    background-color: white;
+    border:none;
+    width: 80px;
+    border-radius: 15px;
+}
+.sidebar-link:hover{
+    background-color: rgb(241, 241, 241);
+    
+}
+.home-page{
+    width:25px;
+    margin-right: 6px;
+}
+.shorts-button{
+    width: 25px;
+    margin-right: 6px;
+}
+.subsription-button{
+    width: 25px;
+    margin-right: 6px;
+}
+.library-button{
+    width: 25px;
+    margin-right: 6px;
+}
+.sidebar-paragraph{
+    font-size: 12px;
+    font-family: Roboto;
+    text-align: center;
+}

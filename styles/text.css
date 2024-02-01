@@ -1,0 +1,53 @@
+p { 
+    font-family: Roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.hd{
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    width: 280px;
+    /*text-align: center;*/
+    line-height: 24px;
+    margin-bottom: 4px;
+}
+.v2 {
+    font-size: 14px;
+    color: gray;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+.v3 {
+    font-size: 14px;
+    color: gray;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.v4 {
+    font-size: 14px;
+    color: gray;
+    width: 280;
+    line-height: 22px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.v5{
+    background-color: red;
+    font-size: 14px;
+    padding-right: 30px;
+    /*padding-left: 30px;*/
+    padding-top: 18px;
+    padding-bottom: 18px;
+    color: white;
+    text-align: center;
+}
+.v6:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
+.v6:active{
+    color:blue;
+}

@@ -1,0 +1,95 @@
+.subB {
+    background-color: rgb(200, 0, 0);
+    color:white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: opacity 0.05s, background-color 0.05s;
+    vertical-align: top;
+}
+.subB:hover{
+    opacity:0.5;
+}
+.subB:active{
+    background-color: brown;
+}
+
+.joinB {
+    background-color: white;
+    color: rgb(29 161 242);
+    border-color: rgb(29 161 242);
+    border-style: solid;
+    border-width: 2px;
+    /*height: 36px;
+    width: 60px;*/
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 7.67px;
+    padding-bottom: 8px;
+    /*We prefer to use padding and not height and width, 
+    the reason is because with height and weight, the text is confined to fit in limited space.*/
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: background-color 0.05s, color 0.05 s;
+}
+
+.joinB:hover{
+    background-color:rgb(29, 161, 242);
+    color: white;
+}
+.joinB:active{
+    background-color:rgb(29, 161, 200);
+    opacity:0.5
+}
+
+.tweetB {
+    background-color: rgb(29 161 242);
+    color: white;
+    margin-left: 8px;
+    height: 36px;
+    width: 73px;
+    border-radius: 16px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: box-shadow 0.05s, background-color 0.05s;
+    vertical-align: top;
+}
+.tweetB:hover{
+    box-shadow: 1px 1px 5px black;
+}
+.tweetB:active{
+    background-color: rgb(0,140,255);
+}
+.Back_nextB {
+    background-color: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    transition: opacity 0.05s, box-shadow 0.05s;
+}
+.Back_nextB:hover {
+    opacity: 0.5;
+    box-shadow: 1px 1px 5px black;
+}
+.NumB {
+    background-color: white;
+    border: none;
+    color: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    transition: opacity 0.05s, color 0.05s;
+}
+.NumB:hover {
+    opacity: 0.5;
+}
+.NumB:active {
+    color: black;
+}
